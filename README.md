@@ -1,13 +1,6 @@
 ### Hi I'm Raul 👋👨‍💻
 I'm a self-taught passionate BackEnd developer from Spain
 <br/><br/>
-**About me**
-
-- 💼 Java Developer at [Viewnext](https://www.viewnext.com/)
-
-- 📈 Constantly learning
-
-- ❤️ I love writing Java, and Kotlin sometimes
   
 <code><img height="20" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></code>
 <code><img height="20" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></code>
